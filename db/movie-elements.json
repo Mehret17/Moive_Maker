@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": "001",
+      "categoryId": "category1",
+      "name": "Angelina Jollie",
+      "cost": 150000
+    },
+    {
+       "id": "002",
+      "categoryId": "category2",
+      "name": "Adam Sandler",
+      "cost": 200000
+    },
+    {
+      "id": "003",
+      "categoryId": "category3",
+      "name": "Brad Pitt",
+      "cost": 300000
+    },
+    {
+      "id": "004",
+      "categoryId": "category4",
+      "name": "Jennifer Aniston",
+      "cost": 350000
+    },
+    {
+      "id": "005",
+      "categoryId": "category5",
+      "name": "Harrison Ford",
+      "cost": 400000
+    },
+    {
+      "id": "006",
+      "categoryId": "category6",
+      "name": "David Spade",
+      "cost": 500000
+    },
+    {
+      "id": "007",
+      "categoryId": "category7",
+      "name": "Kevin Hart",
+      "cost": 550000
+    },
+    {
+      "id": "008",
+      "categoryId": "category8",
+      "name": "Denzel Washington",
+      "cost": 600000
+    },
+    {
+      "id": "009",
+      "categoryId": "category9",
+      "name": "Hally Berry",
+      "cost": 650000
+    },
+    {
+     "id": "010",
+      "categoryId": "category10",
+      "name": "Oprah Winfrey",
+      "cost": 750000
+    },
+    {
+      "id": "011",
+      "categoryId": "category11",
+      "name": "Oprah Winfrey",
+      "cost": 750000
+    },
+    {
+      "id": "012",
+      "categoryId": "category12",
+      "name": "Jennifer Hadison",
+      "cost": 380000
+    }
+  ]
+}

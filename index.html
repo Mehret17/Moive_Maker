@@ -6,9 +6,37 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Movie Maker</title>
   <link rel ="stylesheet" href="/styles/main.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
 </head>
 <body>
-  <div id ="category"></div>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <h3>Movie Maker</h3>
+          </div>
+          <div class="nav navbar-nav navbar-right">
+              <input type="text" id="myTextInput">      
+              <button class="Button" id="myButtonRussian">My Budget</button>
+          </div>
+        </div>
+      </nav>
+      <div class="progress">
+          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+            <span class="sr-only">40% Complete (success)</span>
+          </div>
+        </div>
+      
+  <div id ="container"></div>
+  <div class="container">
+    <div id = "left-container" class="col-md-8"></div>
+    <div id = "right-container" class="col-md-4"></div>
+  </div>
+  <div id ="movieElement"></div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   <script src ="/dist/app.js"></script>
 </body>
 </html>

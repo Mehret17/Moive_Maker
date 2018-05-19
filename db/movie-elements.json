@@ -1,76 +1,148 @@
 {
   "movies": [
     {
-      "id": "001",
+      "id": "Act1",
       "categoryId": "category1",
       "name": "Angelina Jollie",
       "cost": 150000
     },
     {
-       "id": "002",
-      "categoryId": "category2",
+       "id": "Act2",
+      "categoryId": "category1",
       "name": "Adam Sandler",
       "cost": 200000
     },
     {
-      "id": "003",
-      "categoryId": "category3",
+      "id": "Act3",
+      "categoryId": "category1",
       "name": "Brad Pitt",
       "cost": 300000
     },
     {
-      "id": "004",
-      "categoryId": "category4",
+      "id": "Act4",
+      "categoryId": "category1",
       "name": "Jennifer Aniston",
       "cost": 350000
     },
     {
-      "id": "005",
-      "categoryId": "category5",
+      "id": "Act5",
+      "categoryId": "category1",
       "name": "Harrison Ford",
       "cost": 400000
     },
     {
-      "id": "006",
-      "categoryId": "category6",
+      "id": "Act6",
+      "categoryId": "category1",
       "name": "David Spade",
       "cost": 500000
     },
     {
-      "id": "007",
-      "categoryId": "category7",
-      "name": "Kevin Hart",
-      "cost": 550000
+      "id": "Ani7",
+      "categoryId": "category2",
+      "name": "John Smith",
+      "cost": 5500
     },
     {
-      "id": "008",
-      "categoryId": "category8",
-      "name": "Denzel Washington",
-      "cost": 600000
+      "id": "Ani8",
+      "categoryId": "category2",
+      "name": "Denzel Bruce",
+      "cost": 6000
     },
     {
-      "id": "009",
-      "categoryId": "category9",
-      "name": "Hally Berry",
-      "cost": 650000
+      "id": "Ani9",
+      "categoryId": "category2",
+      "name": "Billy Jones",
+      "cost": 6500
     },
     {
-     "id": "010",
-      "categoryId": "category10",
-      "name": "Oprah Winfrey",
-      "cost": 750000
+     "id": "Ani10",
+      "categoryId": "category2",
+      "name": "Bob Billy",
+      "cost": 7500
     },
     {
-      "id": "011",
-      "categoryId": "category11",
-      "name": "Oprah Winfrey",
-      "cost": 750000
+      "id": "Ani11",
+      "categoryId": "category2",
+      "name": "Maxwell Smith",
+      "cost": 1000
     },
     {
-      "id": "012",
-      "categoryId": "category12",
+      "id": "Ani12",
+      "categoryId": "category2",
       "name": "Jennifer Hadison",
-      "cost": 380000
+      "cost": 3800
+    },
+    {
+      "id": "spec13",
+      "categoryId": "category3",
+      "name": "Makeup",
+      "cost": 15000
+    },
+    {
+       "id": "spec14",
+      "categoryId": "category3",
+      "name": "Costume-Design",
+      "cost": 20000
+    },
+    {
+      "id": "spec15",
+      "categoryId": "category3",
+      "name": "Hair-Styling",
+      "cost": 30000
+    },
+    {
+      "id": "spec16",
+      "categoryId": "category3",
+      "name": "Animation",
+      "cost": 35000
+    },
+    {
+      "id": "spec17",
+      "categoryId": "category3",
+      "name": "Animation2",
+      "cost": 40000
+    },
+    {
+      "id": "spec18",
+      "categoryId": "category3",
+      "name": "Styling",
+      "cost": 50000
+    },
+    {
+      "id": "Loc19",
+      "categoryId": "category4",
+      "name": "Zooland",
+      "cost": 65000
+    },
+    {
+      "id": "Loc20",
+      "categoryId": "category4",
+      "name": "Universal Studio",
+      "cost": 75000
+    },
+    {
+      "id": "Loc21",
+      "categoryId": "category4",
+      "name": "Tajmahal",
+      "cost": 100000
+    },
+    {
+     "id": "Loc22",
+      "categoryId": "category4",
+      "name": "Kilimanjaro",
+      "cost": 150000
+    },
+    {
+      "id": "Loc23",
+      "categoryId": "category4",
+      "name": "Lailbela",
+      "cost": 200000
+    },
+    {
+      "id": "Loc24",
+      "categoryId": "category4",
+      "name": "Axum",
+      "cost": 3800
     }
   ]
 }
